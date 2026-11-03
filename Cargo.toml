@@ -1,0 +1,9 @@
+[package]
+name = "arch-peer-to-peer-kernel"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-arch-peer-to-peer-kernel component - Inspired by Arch Linux and Debian"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-peer-to-peer-kernel"
+
+[dependencies]
