@@ -3,7 +3,7 @@ name = "SigmaOS-arch-peer-to-peer-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-peer-to-peer-kernel component"
+description = "SigmaOS SigmaOS-arch-peer-to-peer-kernel component"
 upstream = []
 
 [contract]
